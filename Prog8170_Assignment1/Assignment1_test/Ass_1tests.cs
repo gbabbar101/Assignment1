@@ -16,7 +16,7 @@ namespace Assignment1_test
         {
             //Arrange
             int l = 3;
-            int w = 4;
+            int w = 5;
             Rectangle testRectangle = new Rectangle(l, w);
 
             //Act
@@ -30,7 +30,7 @@ namespace Assignment1_test
         public void GetWidth_input5_expectWidthEquals5()
         {
             //Arrange
-            int l = 3;
+            int l = 4;
             int w = 5;
             Rectangle testRectangle = new Rectangle(l, w);
 
