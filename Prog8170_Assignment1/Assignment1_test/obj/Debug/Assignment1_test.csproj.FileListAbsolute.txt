@@ -1,0 +1,12 @@
+D:\Conestoga\Prog8170_Assignment1 (2)\Prog8170_Assignment1 (2)\Prog8170_Assignment1\Prog8170_Assignment1\Assignment1_test\bin\Debug\Assignment1_test.dll
+D:\Conestoga\Prog8170_Assignment1 (2)\Prog8170_Assignment1 (2)\Prog8170_Assignment1\Prog8170_Assignment1\Assignment1_test\bin\Debug\Assignment1_test.pdb
+D:\Conestoga\Prog8170_Assignment1 (2)\Prog8170_Assignment1 (2)\Prog8170_Assignment1\Prog8170_Assignment1\Assignment1_test\bin\Debug\nunit.framework.dll
+D:\Conestoga\Prog8170_Assignment1 (2)\Prog8170_Assignment1 (2)\Prog8170_Assignment1\Prog8170_Assignment1\Assignment1_test\bin\Debug\Prog8170_Assignment1.exe
+D:\Conestoga\Prog8170_Assignment1 (2)\Prog8170_Assignment1 (2)\Prog8170_Assignment1\Prog8170_Assignment1\Assignment1_test\bin\Debug\Prog8170_Assignment1.pdb
+D:\Conestoga\Prog8170_Assignment1 (2)\Prog8170_Assignment1 (2)\Prog8170_Assignment1\Prog8170_Assignment1\Assignment1_test\bin\Debug\Prog8170_Assignment1.exe.config
+D:\Conestoga\Prog8170_Assignment1 (2)\Prog8170_Assignment1 (2)\Prog8170_Assignment1\Prog8170_Assignment1\Assignment1_test\bin\Debug\nunit.framework.xml
+D:\Conestoga\Prog8170_Assignment1 (2)\Prog8170_Assignment1 (2)\Prog8170_Assignment1\Prog8170_Assignment1\Assignment1_test\obj\Debug\Assignment1_test.csprojAssemblyReference.cache
+D:\Conestoga\Prog8170_Assignment1 (2)\Prog8170_Assignment1 (2)\Prog8170_Assignment1\Prog8170_Assignment1\Assignment1_test\obj\Debug\Assignment1_test.csproj.CoreCompileInputs.cache
+D:\Conestoga\Prog8170_Assignment1 (2)\Prog8170_Assignment1 (2)\Prog8170_Assignment1\Prog8170_Assignment1\Assignment1_test\obj\Debug\Assignment1_test.csproj.CopyComplete
+D:\Conestoga\Prog8170_Assignment1 (2)\Prog8170_Assignment1 (2)\Prog8170_Assignment1\Prog8170_Assignment1\Assignment1_test\obj\Debug\Assignment1_test.dll
+D:\Conestoga\Prog8170_Assignment1 (2)\Prog8170_Assignment1 (2)\Prog8170_Assignment1\Prog8170_Assignment1\Assignment1_test\obj\Debug\Assignment1_test.pdb
