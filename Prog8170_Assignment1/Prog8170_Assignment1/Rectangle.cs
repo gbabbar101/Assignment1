@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//RECTANGLE
 namespace Prog8170_Assignment1
 {
     public class Rectangle
